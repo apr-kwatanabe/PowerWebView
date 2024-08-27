@@ -1,1 +1,2 @@
-include ':powerwebview'
+include ':powerwebview', ':powerwebview-rx'
+
