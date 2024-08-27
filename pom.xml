@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.yatatsu</groupId>
 	<artifactId>powerwebview</artifactId>
-	<version>0.4.6</version>
+	<version>0.4.7-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
     <repositories>
